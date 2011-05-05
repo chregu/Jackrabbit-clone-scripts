@@ -5,6 +5,5 @@ MYSQLUSER="USER"
 MYSQLPASS="PASS"
 MYSQLHOST="localhost"
 MYSQLDB="jackrabbit"
-JRCLUSTERID="node_old"
 JRCLUSTERID_NEW="node_new";
 MYSQLBIN="mysql"
