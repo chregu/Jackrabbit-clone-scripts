@@ -1,0 +1,9 @@
+JRPID=`ps o pid,command | grep jackrabbit-standalone | grep -v grep | cut -f 1 -d " "` #`cat /var/run/jackrabbit.pid`;
+REPOLOCATION="$PWD/jackrabbit";
+JRSTART="bash startJackrabbit.sh";
+MYSQLUSER="USER"
+MYSQLPASS="PASS"
+MYSQLHOST="localhost"
+MYSQLDB="jackrabbit"
+JRCLUSTERID="node_old"
+JRCLUSTERID_NEW="node_new";
