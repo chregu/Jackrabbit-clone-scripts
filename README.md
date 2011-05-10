@@ -6,7 +6,8 @@ Two scripts for helping adding new instances to a Jackrabbit cluster:
 2. To start a new instance in a jackrabbit cluster with the backup made in the first script
 
 
-See also this blog-post (to come) for more details.
+See also this blog-post  for more details:
+http://blog.liip.ch/archive/2011/05/10/add-new-instances-to-your-jackrabbit-cluster-the-non-time-consuming-way.html
 
 ## Prerequisites
 
